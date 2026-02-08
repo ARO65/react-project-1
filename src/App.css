@@ -18,7 +18,6 @@ body {
   gap: 20px;
 }
 
-/* HEADER - Yeşil */
 .head {
   background-color: #7ed956;
   padding: 20px;
@@ -61,7 +60,7 @@ body {
 .sidebar {
   width: 280px;
   background-color: #a855f7;
-  border-radius: 15px;
+  border-radius: 16px;
   padding: 20px;
 }
 
